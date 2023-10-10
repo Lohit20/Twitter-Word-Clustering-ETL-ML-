@@ -12,5 +12,7 @@ __3. Machine Learning for Data Clustering:__ Machine learning algorithms are emp
 This repository is organized to facilitate easy navigation and utilization of the project components. Here's a brief overview of the project structure:
 
 __1. Streaming/:__ Contains code and configuration files related to streaming Twitter data using Kafka.
+
 __2. ETL/:__ Houses the Extract, Transform, Load (ETL) pipeline for preprocessing the streamed data.
+
 __3. machine learning/:__ Includes machine learning models and scripts for data clustering.
