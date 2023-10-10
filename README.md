@@ -1,4 +1,4 @@
-### Data Engineering Project (Twitter-Word-Clustering-ETL-ML)
+# Data Engineering Project (Twitter-Word-Clustering-ETL-ML)
 This Data Engineering project is designed to streamline the process of handling Twitter data. The project encompasses a range of crucial components, including data streaming using Kafka, Extract, Transform, Load (ETL) operations for effective data preprocessing, and the application of cutting-edge machine learning techniques for data clustering.
 
 #### Project Overview
