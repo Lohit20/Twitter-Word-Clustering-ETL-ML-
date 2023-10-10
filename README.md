@@ -8,7 +8,7 @@ In today's data-driven world, harnessing the power of social media data is inval
 2. ETL (Extract, Transform, Load): The ETL pipeline is a critical part of any data engineering project. Here, we demonstrate effective methods for extracting data from various sources, transforming it into a suitable format, and loading it into a data store or processing pipeline. This step is crucial for data quality and consistency.
 3. Machine Learning for Data Clustering: Machine learning algorithms are employed to cluster Twitter data, enabling us to uncover patterns, trends, and insights within the data. Clustering techniques help in grouping similar data points together, aiding in subsequent analysis and decision-making.
 
-Project Structure
+#### Project Structure
 This repository is organized to facilitate easy navigation and utilization of the project components. Here's a brief overview of the project structure:
 
 data_streaming/: Contains code and configuration files related to streaming Twitter data using Kafka.
